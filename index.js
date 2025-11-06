@@ -243,3 +243,5 @@
       window.addEventListener('mousedown', startOnFirstInteraction, { once: true });
       window.addEventListener('touchstart', startOnFirstInteraction, { once: true });
 })();
+
+// End of index.js
